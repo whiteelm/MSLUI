@@ -1,0 +1,9 @@
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\bin\x64\Debug\test5dll.dll
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\bin\x64\Debug\Test5exe.exe.config
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\bin\x64\Debug\Test5exe.exe
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\bin\x64\Debug\Test5exe.pdb
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\obj\x64\Debug\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\obj\x64\Debug\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\obj\x64\Debug\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\obj\x64\Debug\Test5exe.exe
+C:\Users\Кежик\Desktop\Учеба\Test5exeXP\Test5exe\obj\x64\Debug\Test5exe.pdb

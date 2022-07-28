@@ -1,0 +1,60 @@
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.exe.config
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.exe.config
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csprojAssemblyReference.cache
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Учёба\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csprojAssemblyReference.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.exe.config
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\bin\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csprojAssemblyReference.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\Test5exeXP\Test5exe\obj\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\bin\x86\Release\Test5exe.exe.config
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\bin\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\bin\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csprojAssemblyReference.cache
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\bin\x86\Release\Test5exe.exe.config
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\bin\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\bin\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csprojAssemblyReference.cache
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\bin\x86\Release\Test5exe.exe.config
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\bin\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\bin\x86\Release\Test5exe.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csprojAssemblyReference.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.Form1.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\MSL programms\MSLEXE\Test5exe\obj\x86\Release\Test5exe.pdb

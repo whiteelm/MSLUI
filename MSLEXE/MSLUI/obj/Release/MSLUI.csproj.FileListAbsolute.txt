@@ -1,0 +1,10 @@
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\bin\Release\MSL.exe.config
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\bin\Release\MSL.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\bin\Release\MSL.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSLUI.Form1.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSLUI.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSLUI.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSLUI.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSL.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSL.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\MSL programms\MSLEXE\MSLUI\obj\Release\MSLUI.csproj.AssemblyReference.cache
